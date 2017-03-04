@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Capitulo10\Estudiante.cs" />
+    <Compile Include="Capitulo10\Inventario.cs" />
+    <Compile Include="Capitulo10\Poligono.cs" />
+    <Compile Include="Capitulo10\PropiedadPoligono.cs" />
+    <Compile Include="Capitulo10\ToStringPoligono.cs" />
+    <Compile Include="Capitulo12Debug\Factorial.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
